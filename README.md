@@ -1,4 +1,4 @@
-# 🌌 Cosmology & Ultra-High Energy Cosmic Ray Research
+# Cosmology & Ultra-High Energy Cosmic Ray Research
 
 > A collection of computational notebooks and Mathematica analyses exploring the CMB power spectrum, cosmological parameter constraints, and the origin of ultra-high energy cosmic rays (UHECRs).
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🔭 Project Overview
+##  Project Overview
 
 This research spans two major themes in high-energy astrophysics:
 
@@ -30,7 +30,7 @@ Mathematica notebooks implement a full pipeline for testing whether the arrival 
 
 ---
 
-## 📊 Plots & Results
+## Plots & Results
 
 ### CMB Power Spectrum Studies
 
@@ -60,7 +60,7 @@ plotted for initial energies $E_i \in [10^9, 10^{11}]$ eV on a log scale.
 
 ---
 
-## 🧪 Methods
+##  Methods
 
 ### CMB Notebooks (Python / CLASS)
 
@@ -92,7 +92,7 @@ $$f(E; \gamma, E_c) = E_c^{\gamma-1} E^{-\gamma} \frac{e^{-E/E_c}}{\Gamma(1-\gam
 
 ---
 
-## 🛠 Dependencies
+##  Dependencies
 
 ### Python (Jupyter Notebooks)
 ```bash
@@ -113,7 +113,7 @@ pip install numpy scipy matplotlib healpy classy
 
 ---
 
-## 📂 Data Files Required
+##  Data Files Required
 
 | File | Description |
 |---|---|
@@ -124,7 +124,7 @@ pip install numpy scipy matplotlib healpy classy
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - CMB temperature today: $T_0 = 2.7255 \times 10^6\,\mu\text{K}$ (used to normalize $D_\ell$)
 - Planck data range: $\ell = 2$ to $\ell_\text{max} = 2508$
@@ -134,7 +134,7 @@ pip install numpy scipy matplotlib healpy classy
 
 ---
 
-## 👩‍🔬 Author
+##  Author
 
 **Neena Noble**  
 Research in cosmology and ultra-high energy cosmic ray physics.
